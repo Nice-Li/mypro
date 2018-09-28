@@ -1,0 +1,2 @@
+# mypro
+a javascript project
